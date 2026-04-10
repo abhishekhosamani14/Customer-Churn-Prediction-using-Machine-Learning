@@ -28,3 +28,5 @@ To develop a classification model that accurately predicts customer churn based 
 - Review the outputs and model performance
 # Outcome
 The model predicts whether a customer will churn or not and provides insights into important factors affecting churn.
+# Internship Work
+This project was completed during my internship as part of hands-on experience in machine learning and real-world data analysis.
